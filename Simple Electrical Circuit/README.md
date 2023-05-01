@@ -1,1 +1,1 @@
-readme test
+This MATLAB file solves for the charge of a capacitor and plots it as a fuction of time given the input variables: t (time), q0 (initial charge), R (the resistance), L (inductance), and C (capacitance).
