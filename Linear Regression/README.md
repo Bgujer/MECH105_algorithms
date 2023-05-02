@@ -1,3 +1,4 @@
+# Linear Regression
 This script computes linear regression and puts it into slope-intercept format.
 Inputs: 
 x-values of the data set
