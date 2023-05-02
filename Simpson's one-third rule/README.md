@@ -1,1 +1,1 @@
-impson's 1/3 rule is a numerical method used for approximating definite integrals. It involves dividing the area under the curve into a series of trapezoids and parabolas, and then calculating the total area using a weighted sum of these shapes.
+Simpson's 1/3 rule is a numerical method used for approximating definite integrals. It involves dividing the area under the curve into a series of trapezoids and parabolas, and then calculating the total area using a weighted sum of these shapes.
