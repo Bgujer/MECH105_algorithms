@@ -1,3 +1,4 @@
+# LU Factorization
 This script is used to solve for a large set of variables with LU factorization with pivoting.
 
 inputs:
