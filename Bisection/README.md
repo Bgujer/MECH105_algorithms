@@ -11,6 +11,6 @@ Outputs produced:
 
 An estimate of the root of the function within the given interval that satisfies the specified criteria.
 
-This algorithm can be used to solve for the root of the given function. It can be used to find the root of the function f(x) = x^3 - 2x - 5 within the interval [2, 3]. We use the bisection method to find a value of x that makes f(x) equal to zero within this interval.
+This algorithm can be used to solve for the root of the given function. It can be used to find the root of the function f(x) = x^2  within the interval [-1, 1]. WYou can use the bisection method to find a value of x that makes f(x) equal to zero within this interval.
 
 
